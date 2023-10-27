@@ -26,7 +26,7 @@ const Footer = () => {
         <p>@NovelPic 2023. All Rights Reserved.</p>
         <p>
           <a
-            href="https://github.com/brightdev-bs/novel-pick/tree/jaehyeong"
+            href="https://github.com/wanttobodybuilderifbbpro/novel_pick"
             style={{ color: "#616161" }}
           >
             NovelPic's Github
