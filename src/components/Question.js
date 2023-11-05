@@ -124,9 +124,13 @@ const Question = () => {
               {QuestionData[questionNo].a[3].answer}
             </Button>
             <br></br>
-            <button>
+            <Button
+              style={{
+                background: "#100F06",
+              }}
+            >
               <Link to="/">처음으로</Link>
-            </button>
+            </Button>
           </ButtonGroup>
           <BarWrap>
             <ProgressBar
